@@ -1,0 +1,6 @@
+{
+  "name": "LightBurn Laser Studio",
+  "description": "Professional laser cutter and engraver software featuring interactive workspace, multi-layer cut and engrave settings, real-time laser simulation, machine jog controls, and G-code generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
